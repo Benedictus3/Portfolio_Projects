@@ -1,6 +1,6 @@
 # Portfolio_Projects
 
-###SQL
+Tools used: SQL
 
 This project was inspired by Alex the Analyst's YouTube classes, and it demonstrates the ability to apply the skills I learned.
 
